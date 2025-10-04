@@ -3,6 +3,7 @@
 Software developer | C# .NET • React • TypeScript
 I am passionate about creating web applications.
 
+- 👦 You can call me Emily 👌.
 - 🔭 I’m currently working on **Software Engineer**
 - 🌱 I’m currently learning **C#, React, and SignalR**
 - 👯 I’m looking to collaborate on **open-source web applications**
