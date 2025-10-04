@@ -9,7 +9,7 @@ I am passionate about creating web applications.
 - 👯 I’m looking to collaborate on **open-source web applications**
 - 🤔 I’m looking for help with **advanced React state management**
 - 💬 Ask me about **.NET APIs, Cloudinary, and SQL Server**
-- 📫 How to reach me: **poelay1995@gmail.com**
+- 📫 How to reach me: **myitzumaungmm@gmail.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I love solving coding bugs with coffee ☕**
 
