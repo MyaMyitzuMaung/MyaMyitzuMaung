@@ -23,4 +23,4 @@ I am passionate about creating web applications.
 📊 **GitHub Stats:**  
 ![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyaMyitzuMaung&show_icons=true&theme=tokyonight)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyaMyitzuMaung&layout=compact&theme=tokyonight)
